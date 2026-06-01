@@ -1,5 +1,6 @@
 'use strict'
-
+//função que recebe o file, e retorna a url http e https, na documentação exige um formdata(particamente um jason)
+//
 const CLOUD_NAME = 'daxpl0xw3'     
 const UPLOAD_PRESET = 'fotos_contato' 
 

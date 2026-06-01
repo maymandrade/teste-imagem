@@ -65,6 +65,15 @@ form {
     cursor: pointer;
 }
 
+.form-input {
+    width: 300px;
+    height: 32px;
+    padding: 0 8px;
+    border: 1px solid var(--primary-color);
+    background-color: transparent;
+    color: var(--primary-color);
+}
+
 footer{
     display: flex;
     justify-content: center;
